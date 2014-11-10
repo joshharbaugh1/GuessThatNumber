@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\GuessThatNumber\HangManV2.0\HangManV2.0\bin\Debug\HangManV2.0.exe.config
+C:\Users\Technologist SP\Documents\GitHub\GuessThatNumber\HangManV2.0\HangManV2.0\bin\Debug\HangManV2.0.exe
+C:\Users\Technologist SP\Documents\GitHub\GuessThatNumber\HangManV2.0\HangManV2.0\bin\Debug\HangManV2.0.pdb
+C:\Users\Technologist SP\Documents\GitHub\GuessThatNumber\HangManV2.0\HangManV2.0\obj\Debug\HangManV2.0.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\GuessThatNumber\HangManV2.0\HangManV2.0\obj\Debug\HangManV2.0.exe
+C:\Users\Technologist SP\Documents\GitHub\GuessThatNumber\HangManV2.0\HangManV2.0\obj\Debug\HangManV2.0.pdb
